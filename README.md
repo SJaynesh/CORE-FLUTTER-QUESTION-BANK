@@ -147,6 +147,34 @@
 > 5. [Explain the lifecycle methods of StatefulWidget.](https://medium.com/@hadiyaaamir222/lifecycle-of-a-stateful-widget-aece2d56c946)
 > 6. Explain differences between initState() & dispose() methods.
 
+<br><br>
+
+## `Asynchronous Programming`
+
+<br>
+
+> 1. Introduced Material 3 design.
+> 2. What is Synchronous Programming ? Explain in detail.
+> 3. What is Asynchronous Programmig ? Explain in detail.
+> 4. Explain Different between Synchronous and Asynchronous programming.
+> 5. Where classes are used in asynchronous programming ?
+> 6. What is a Future class? Explain with examples in detail.
+> 7. What is a Timer class? Describe the use of it.
+> 8. Difference between Future & Timer class.
+> 9. What is use of async and await keywords ?
+> 10. What is Recursion Concept ?
+> 11. How to get corrent date and time in flutter ?
+> 12. Explain different between Future.delayed and Timer.periodic.
+
+
+<br><br>
+
+## `Class`
+
+<br>
+
+> 1. What is Global class ? Explain in detail.
+> 2. What is Model class and what is its benefit ?
 
 <br><br>
 
@@ -169,4 +197,9 @@
 > 13. How to use Default Routes in detail.
 > 14. How to use Named Routes in detail.
 > 15. How to use onGenerate Routes in detail.
+> 16. How to Changing Status bar and Navigation bar colors ?
+> 17. How to Changing Orientation of an app ?
+> 18. How to create validate text field ?
+> 19. How to add font Specific-widget wise in flutter ?
+> 20. How to add font System-wise in flutter ? 
 
